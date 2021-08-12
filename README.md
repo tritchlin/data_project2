@@ -9,8 +9,9 @@ Write-up on project:
 <br>https://docs.google.com/document/d/1HYP_cz7lHAs6IOeJ3bteXmnFL6-aj_RgK4v1it6j7Wk/</br>
 
 Final Notes:
+<br></br>
 Extract: 
-Multiple CSV files were downloaded from the referenced Kaggle dataset. All CSVs use 		a semicolon delimiter.
+Multiple CSV files were downloaded from the referenced Kaggle dataset. All CSVs use a semicolon delimiter.
 <br></br>
 Transform: 
 CSV files containing the script from three separate movies had to be combined, then filtered using the spells list, so we had one table that only contained the lines in which a spell name was cast, along with the name of the wizard casting it. 
